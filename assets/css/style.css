@@ -8,8 +8,9 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+
 body {
-  font-family: "Open Sans", sans-serif;
+  /* font-family: "'Cairo' , Open Sans", sans-serif; */
   color: #444444;
 }
 
@@ -23,9 +24,9 @@ a:hover {
   text-decoration: none;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  font-family: "Raleway", sans-serif;
-}
+/* h1, h2, h3, h4, h5, h6 {
+  font-family: "'Cairo' , Raleway", sans-serif;
+} */
 
 /*--------------------------------------------------------------
 # Back to top button
@@ -420,7 +421,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
   line-height: 64px;
   color: #fff;
-  font-family: "Poppins", sans-serif;
+  /* font-family: "Poppins", sans-serif; */
 }
 
 #hero h1 span {
@@ -510,7 +511,7 @@ section {
   letter-spacing: 2px;
   text-transform: uppercase;
   color: #aaaaaa;
-  font-family: "Poppins", sans-serif;
+  /* font-family: "Poppins", sans-serif; */
 }
 
 .section-title h2::after {
